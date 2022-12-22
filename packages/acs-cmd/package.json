@@ -23,7 +23,7 @@
   "dependencies": {
     "chalk": "^2.4.1",
     "commander": "^2.17.0",
-    "jsonwebtoken": "^8.4.0",
+    "jsonwebtoken": "^9.0.0",
     "pg": "^7.11.0",
     "table": "^5.3.3"
   },
